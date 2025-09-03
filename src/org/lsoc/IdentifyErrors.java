@@ -1,5 +1,5 @@
 //COMMENTS ARE MENT TO HELP READABILITY
-//FIX the look of the file with command + shift + f (mac) [Shift + Alt + F  should work on windows]
+//FIX the look of the file with option + shift + f (mac) [Shift + Alt + F  should work on windows]
 //EACH TRY CATCH IS 1 ERROR
 
 public class 					IdentifyErrors {
